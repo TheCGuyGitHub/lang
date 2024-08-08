@@ -1,0 +1,10 @@
+{
+  "en_US": {
+    "name": "English",
+    "fallback": "<none>"
+  },
+  "de_DE": {
+    "name": "Deutsch",
+    "fallback": "en_US"
+  }
+}
