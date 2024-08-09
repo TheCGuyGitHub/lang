@@ -8,7 +8,7 @@
         "en_US": "<color:#96a7b2>You were teleported to the Spawn!</color>"
     },
     "spawnTP.other": {
-        "de_DE": "<color:#96a7b2>Du hast <color:00ff42>[PLAYER]</color> zum Spawn teleportiert!</color>",
-        "en_US": "<color:#96a7b2>You have teleported <color:00ff42>[PLAYER]</color> to the Spawn!</color>"
+        "de_DE": "<color:#96a7b2>Du hast <color:#00ff42>[PLAYER]</color> zum Spawn teleportiert!</color>",
+        "en_US": "<color:#96a7b2>You have teleported <color:#00ff42>[PLAYER]</color> to the Spawn!</color>"
     }
 }
