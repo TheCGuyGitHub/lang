@@ -2,5 +2,9 @@
     "noperms": {
         "de_DE": "<color:#96a7b2>Du hast <color:#ff0000>keine</color> Berechtigung um das zu tun!</color>",
         "en_US": "<color:#96a7b2>You <color:#ff0000>do not</color> have the permission to do that!</color>"
+    },
+    "spawnTP": {
+        "de_DE": "<color:#96a7b2>Du wurdest an den Spawn teleportiert!</color>",
+        "en_US": "<color:#96a7b2>You were teleported to the Spawn!</color>"
     }
 }
