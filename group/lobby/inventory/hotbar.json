@@ -2,5 +2,9 @@
     "ITEM.SELECTOR": {
         "de_DE": "Selector",
         "en_US": "Selector"
+    },
+    "ITEM.LobbySwitcher": {
+        "de_DE": "Lobby Wechsler",
+        "en_US": "lobby Switcher"
     }
 }
